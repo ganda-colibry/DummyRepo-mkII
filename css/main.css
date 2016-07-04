@@ -1,0 +1,4 @@
+.area {
+    display: -ms-grid; /* prefix for IE 10 */
+    display: grid; /* or inline-grid */
+}
