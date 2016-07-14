@@ -1,2 +1,2 @@
 # DummyRepo-mkII
-gumgumgums for dumdumdums
+gumgumgum for dumdumdum
